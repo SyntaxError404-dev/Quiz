@@ -1,0 +1,977 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": {
+      "A": "H",
+      "B": "O",
+      "C": "H2O",
+      "D": "HO"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of π (pi) rounded to two decimal places?",
+    "options": {
+      "A": "3.12",
+      "B": "3.14",
+      "C": "3.16",
+      "D": "3.18"
+    },
+    "answer": "B"
+  },
+  
+  {
+    "question": "Which anime features a shinigami named Ryuk and a high school student named Light Yagami?",
+    "options": {
+      "A": "Naruto",
+      "B": "Death Note",
+      "C": "Attack on Titan",
+      "D": "One Piece"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In 'Naruto', who is known as the Copy Ninja?",
+    "options": {
+      "A": "Kakashi Hatake",
+      "B": "Sasuke Uchiha",
+      "C": "Naruto Uzumaki",
+      "D": "Sakura Haruno"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In 'Attack on Titan', what are the giant humanoid creatures that threaten humanity called?",
+    "options": {
+      "A": "Kaiju",
+      "B": "Titans",
+      "C": "Giants",
+      "D": "Colossals"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who is the main protagonist in 'One Piece'?",
+    "options": {
+      "A": "Monkey D. Luffy",
+      "B": "Roronoa Zoro",
+      "C": "Nami",
+      "D": "Usopp"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the main character in 'Dragon Ball Z'?",
+    "options": {
+      "A": "Goku",
+      "B": "Vegeta",
+      "C": "Piccolo",
+      "D": "Gohan"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series features a guild named Fairy Tail?",
+    "options": {
+      "A": "Naruto",
+      "B": "One Piece",
+      "C": "Fairy Tail",
+      "D": "Bleach"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the protagonist in 'My Hero Academia'?",
+    "options": {
+      "A": "Deku",
+      "B": "Bakugo",
+      "C": "Todoroki",
+      "D": "All Might"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In 'Sword Art Online', what is the name of the virtual reality MMORPG?",
+    "options": {
+      "A": "Alfheim Online",
+      "B": "Log Horizon",
+      "C": "Gun Gale Online",
+      "D": "Sword Art Online"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the protagonist in 'One Punch Man'?",
+    "options": {
+      "A": "Saitama",
+      "B": "Genos",
+      "C": "Mumen Rider",
+      "D": "Garou"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime is known for its iconic phrase 'Believe it!'?",
+    "options": {
+      "A": "Naruto",
+      "B": "Dragon Ball Z",
+      "C": "One Piece",
+      "D": "Bleach"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the school in 'My Hero Academia' where heroes are trained?",
+    "options": {
+      "A": "UA Academy",
+      "B": "Hero Academy",
+      "C": "Superhero High",
+      "D": "Villain Academy"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In 'Death Note', what is the name of L's successor who takes over the investigation?",
+    "options": {
+      "A": "Near",
+      "B": "Mello",
+      "C": "Light Yagami",
+      "D": "Ryuk"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a group of high school students who form a band named 'Afterglow'?",
+    "options": {
+      "A": "Naruto",
+      "B": "Attack on Titan",
+      "C": "K-On!",
+      "D": "Angel Beats!"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In 'Demon Slayer', what is the name of Tanjiro Kamado's sister who becomes a demon?",
+    "options": {
+      "A": "Nezuko",
+      "B": "Zenitsu",
+      "C": "Inosuke",
+      "D": "Muzan"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the main character in 'Hunter x Hunter'?",
+    "options": {
+      "A": "Gon Freecss",
+      "B": "Killua Zoldyck",
+      "C": "Hisoka",
+      "D": "Kurapika"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the magical world in 'Fairy Tail'?",
+    "options": {
+      "A": "Alabasta",
+      "B": "Magnolia",
+      "C": "Fiore",
+      "D": "Edolas"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In 'Attack on Titan', what is the name of the main protagonist?",
+    "options": {
+      "A": "Levi",
+      "B": "Armin",
+      "C": "Mikasa",
+      "D": "Eren"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the organization in 'Naruto' that aims to capture all the tailed beasts?",
+    "options": {
+      "A": "Akatsuki",
+      "B": "Sound Village",
+      "C": "Root",
+      "D": "Anbu"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In 'Dragon Ball Z', who is Goku's greatest rival?",
+    "options": {
+      "A": "Vegeta",
+      "B": "Piccolo",
+      "C": "Frieza",
+      "D": "Cell"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime follows the journey of a young alchemist named Edward Elric?",
+    "options": {
+      "A": "Fairy Tail",
+      "B": "Bleach",
+      "C": "One Piece",
+      "D": "Fullmetal Alchemist"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the titan-shifter with the ability to control Titans in 'Attack on Titan'?",
+    "options": {
+      "A": "Levi",
+      "B": "Mikasa",
+      "C": "Eren",
+      "D": "Historia"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "In 'My Hero Academia', what is Izuku Midoriya's hero name?",
+    "options": {
+      "A": "Deku",
+      "B": "Shoto",
+      "C": "Endeavor",
+      "D": "All Might"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime features a world where humans coexist with supernatural creatures called 'ghouls'?",
+    "options": {
+      "A": "Naruto",
+      "B": "Attack on Titan",
+      "C": "Tokyo Ghoul",
+      "D": "One Punch Man"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the main character in 'Tokyo Ghoul'?",
+    "options": {
+      "A": "Kaneki Ken",
+      "B": "Touka Kirishima",
+      "C": "Haise Sasaki",
+      "D": "Juuzou Suzuya"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In 'One Piece', what is the name of Luffy's signature attack?",
+    "options": {
+      "A": "Gomu Gomu no Pistol",
+      "B": "Rasengan",
+      "C": "Kamehameha",
+      "D": "Bankai"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the organization of heroes in 'One Punch Man'?",
+    "options": {
+      "A": "Hero Association",
+      "B": "Justice League",
+      "C": "S-Class Heroes",
+      "D": "Villains Inc."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which anime series follows the adventures of Monkey D. Luffy and his pirate crew?",
+    "options": {
+      "A": "Naruto",
+      "B": "One Piece",
+      "C": "Dragon Ball Z",
+      "D": "Fairy Tail"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "In 'Demon Slayer', what is Tanjiro Kamado's ultimate goal?",
+    "options": {
+      "A": "To become the strongest demon slayer",
+      "B": "To find a cure for Nezuko's demon curse",
+      "C": "To avenge his family",
+      "D": "To become a Hashira"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which anime features a group of high school students who form a club to play card games?",
+    "options": {
+      "A": "Yu-Gi-Oh!",
+      "B": "Beyblade",
+      "C": "Digimon",
+      "D": "Pokemon"
+    },
+    "answer": "A"
+  },
+  
+  {
+    "question": "Who is often credited with discovering gravity after observing an apple falling from a tree?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": {
+      "A": "Au",
+      "B": "Ag",
+      "C": "Fe",
+      "D": "Hg"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": {
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galileo Galilei",
+      "D": "Niels Bohr"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Who invented the first practical telephone?",
+    "options": {
+      "A": "Alexander Graham Bell",
+      "B": "Thomas Edison",
+      "C": "Nikola Tesla",
+      "D": "Guglielmo Marconi"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": {
+      "A": "Marie Curie",
+      "B": "Rosalind Franklin",
+      "C": "Ada Lovelace",
+      "D": "Jane Goodall"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": {
+      "A": "H2O",
+      "B": "CO2",
+      "C": "NaCl",
+      "D": "CH4"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": {
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote the famous book 'On the Origin of Species'?",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Isaac Newton",
+      "C": "Gregor Mendel",
+      "D": "Louis Pasteur"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "options": {
+      "A": "O",
+      "B": "O2",
+      "C": "H2O",
+      "D": "CO2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": {
+      "A": "Elephant",
+      "B": "Blue Whale",
+      "C": "Giraffe",
+      "D": "Hippopotamus"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": {
+      "A": "Earth",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": {
+      "A": "CO2",
+      "B": "O2",
+      "C": "H2O",
+      "D": "CH4"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is considered the 'Father of Genetics'?",
+    "options": {
+      "A": "Gregor Mendel",
+      "B": "Charles Darwin",
+      "C": "Louis Pasteur",
+      "D": "James Watson"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": {
+      "A": "CH4",
+      "B": "CO2",
+      "C": "H2O",
+      "D": "O2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first person to step foot on the moon?",
+    "options": {
+      "A": "Neil Armstrong",
+      "B": "Buzz Aldrin",
+      "C": "Yuri Gagarin",
+      "D": "John Glenn"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": {
+      "A": "Fe",
+      "B": "Au",
+      "C": "Ag",
+      "D": "Pb"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "options": {
+      "A": "Egyptians",
+      "B": "Romans",
+      "C": "Greeks",
+      "D": "Persians"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": {
+      "A": "Leonardo da Vinci",
+      "B": "Vincent van Gogh",
+      "C": "Pablo Picasso",
+      "D": "Michelangelo"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which famous scientist developed the theory of evolution?",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Isaac Newton",
+      "C": "Albert Einstein",
+      "D": "Marie Curie"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What year did Christopher Columbus first voyage to the Americas?",
+    "options": {
+      "A": "1492",
+      "B": "1501",
+      "C": "1607",
+      "D": "1776"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": {
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "Abraham Lincoln",
+      "D": "John Adams"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": {
+      "A": "1945",
+      "B": "1918",
+      "C": "1939",
+      "D": "1941"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": {
+      "A": "Margaret Thatcher",
+      "B": "Queen Elizabeth II",
+      "C": "Theresa May",
+      "D": "Angela Merkel"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who is known for discovering penicillin, the first antibiotic?",
+    "options": {
+      "A": "Alexander Fleming",
+      "B": "Louis Pasteur",
+      "C": "Marie Curie",
+      "D": "Florence Nightingale"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote the 'Declaration of Independence' for the United States?",
+    "options": {
+      "A": "Thomas Jefferson",
+      "B": "George Washington",
+      "C": "Benjamin Franklin",
+      "D": "John Adams"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which famous playwright wrote 'Romeo and Juliet'?",
+    "options": {
+      "A": "William Shakespeare",
+      "B": "George Bernard Shaw",
+      "C": "Tennessee Williams",
+      "D": "Arthur Miller"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": {
+      "A": "Michelangelo",
+      "B": "Leonardo da Vinci",
+      "C": "Raphael",
+      "D": "Donatello"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who was the longest-reigning monarch in British history?",
+    "options": {
+      "A": "Queen Victoria",
+      "B": "Queen Elizabeth II",
+      "C": "King George III",
+      "D": "Queen Mary"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "options": {
+      "A": "Mayflower",
+      "B": "Santa Maria",
+      "C": "Nina",
+      "D": "Endeavour"
+    },
+    "answer": "A"
+  },
+  
+  {
+    "question": "This character is the main protagonist of the series 'Naruto' and dreams of becoming the strongest ninja and leader of his village.",
+    "options": {
+      "A": "Sasuke Uchiha",
+      "B": "Naruto Uzumaki",
+      "C": "Sakura Haruno",
+      "D": "Kakashi Hatake"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "This character is a super-powered being from the planet Krypton, who fights for truth, justice, and the American way.",
+    "options": {
+      "A": "Vegeta",
+      "B": "Goku",
+      "C": "Superman",
+      "D": "One Punch Man"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "This character is known as the 'Pirate King' and leads the Straw Hat Pirates on a quest to find the legendary One Piece treasure.",
+    "options": {
+      "A": "Luffy",
+      "B": "Zoro",
+      "C": "Nami",
+      "D": "Usopp"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "This character is a skilled swordsman and a former member of the Shinsengumi, known for his distinctive silver hair and stoic personality.",
+    "options": {
+      "A": "Levi",
+      "B": "Saitama",
+      "C": "Roronoa Zoro",
+      "D": "Gintoki Sakata"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "This character is the youngest sibling of the Elric brothers and is known for his short stature and hot-headedness.",
+    "options": {
+      "A": "Edward Elric",
+      "B": "Alphonse Elric",
+      "C": "Roy Mustang",
+      "D": "Winry Rockbell"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "This character is a powerful ninja known as the 'Copy Ninja' and later becomes the mentor of Naruto, Sasuke, and Sakura.",
+    "options": {
+      "A": "Kakashi Hatake",
+      "B": "Jiraiya",
+      "C": "Orochimaru",
+      "D": "Minato Namikaze"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "This character is the captain of the Gotei 13's 10th Division in the Soul Society and is known for his laid-back attitude and love of sake.",
+    "options": {
+      "A": "Byakuya Kuchiki",
+      "B": "Gin Ichimaru",
+      "C": "Toshiro Hitsugaya",
+      "D": "Shunsui Kyoraku"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "This character is a highly skilled alchemist and the youngest State Alchemist in history, known for his automail arm and leg.",
+    "options": {
+      "A": "Roy Mustang",
+      "B": "Alphonse Elric",
+      "C": "Winry Rockbell",
+      "D": "Edward Elric"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "This character is the de facto leader of the Survey Corps and is driven by a desire to rid the world of Titans after witnessing his mother's death.",
+    "options": {
+      "A": "Levi",
+      "B": "Eren Yeager",
+      "C": "Mikasa Ackerman",
+      "D": "Armin Arlert"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "This character is a half-human, half-ghoul hybrid who struggles to balance his desire to protect humans with his need to consume human flesh to survive.",
+    "options": {
+      "A": "Kaneki Ken",
+      "B": "Touka Kirishima",
+      "C": "Haise Sasaki",
+      "D": "Juuzou Suzuya"
+    },
+    "answer": "A"
+  },
+  
+  {
+    "question": "🧠 What is the capital of Australia?",
+    "options": {
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Perth"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "🌍 Which planet is known as the 'Red Planet'?",
+    "options": {
+      "A": "Mars",
+      "B": "Venus",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🔬 Who discovered the theory of relativity?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🔢 What is the value of pi (π) rounded to two decimal places?",
+    "options": {
+      "A": "3.12",
+      "B": "3.14",
+      "C": "3.16",
+      "D": "3.18"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🎨 Who painted the famous artwork 'Starry Night'?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Claude Monet"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🏰 Which historical figure is associated with the phrase 'I came, I saw, I conquered'?",
+    "options": {
+      "A": "Julius Caesar",
+      "B": "Alexander the Great",
+      "C": "Napoleon Bonaparte",
+      "D": "Genghis Khan"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🔭 What is the name of the largest moon of Saturn?",
+    "options": {
+      "A": "Titan",
+      "B": "Ganymede",
+      "C": "Europa",
+      "D": "Enceladus"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🔍 Who is considered the 'Father of Modern Chemistry'?",
+    "options": {
+      "A": "Antoine Lavoisier",
+      "B": "Dmitri Mendeleev",
+      "C": "Louis Pasteur",
+      "D": "Robert Boyle"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🗿 What is the name of the ancient Egyptian writing system?",
+    "options": {
+      "A": "Hieroglyphics",
+      "B": "Cuneiform",
+      "C": "Sanskrit",
+      "D": "Phoenician"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🎭 Who wrote the play 'Hamlet'?",
+    "options": {
+      "A": "William Shakespeare",
+      "B": "George Bernard Shaw",
+      "C": "Arthur Miller",
+      "D": "Tennessee Williams"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🌋 What is the largest active volcano on Earth?",
+    "options": {
+      "A": "Mount Vesuvius",
+      "B": "Mauna Loa",
+      "C": "Mount St. Helens",
+      "D": "Mount Etna"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🔬 Who is credited with the discovery of penicillin?",
+    "options": {
+      "A": "Alexander Fleming",
+      "B": "Louis Pasteur",
+      "C": "Marie Curie",
+      "D": "Gregor Mendel"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🎶 Who composed the 'Moonlight Sonata'?",
+    "options": {
+      "A": "Wolfgang Amadeus Mozart",
+      "B": "Johann Sebastian Bach",
+      "C": "Ludwig van Beethoven",
+      "D": "Franz Schubert"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "🌊 What is the deepest known point in Earth's oceans?",
+    "options": {
+      "A": "Mariana Trench",
+      "B": "Puerto Rico Trench",
+      "C": "Tonga Trench",
+      "D": "Java Trench"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🚀 Who was the first human to travel into space?",
+    "options": {
+      "A": "Neil Armstrong",
+      "B": "Buzz Aldrin",
+      "C": "Yuri Gagarin",
+      "D": "John Glenn"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "🎭 Who wrote the tragedy 'Romeo and Juliet'?",
+    "options": {
+      "A": "William Shakespeare",
+      "B": "John Milton",
+      "C": "George Bernard Shaw",
+      "D": "Oscar Wilde"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🦖 What is the largest known dinosaur?",
+    "options": {
+      "A": "Tyrannosaurus Rex",
+      "B": "Brachiosaurus",
+      "C": "Argentinosaurus",
+      "D": "Stegosaurus"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "🎨 Who painted 'The Persistence of Memory' featuring melting clocks?",
+    "options": {
+      "A": "Pablo Picasso",
+      "B": "Salvador Dalí",
+      "C": "Vincent van Gogh",
+      "D": "Claude Monet"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🔍 Who wrote the classic novel 'To Kill a Mockingbird'?",
+    "options": {
+      "A": "Harper Lee",
+      "B": "Mark Twain",
+      "C": "Ernest Hemingway",
+      "D": "F. Scott Fitzgerald"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🌐 What is the largest ocean on Earth?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "🌌 What is the name of the galaxy that contains our solar system?",
+    "options": {
+      "A": "Andromeda",
+      "B": "Milky Way",
+      "C": "Black Eye",
+      "D": "Sombrero"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🌠 What is the phenomenon where a massive star collapses under its own gravity, resulting in an explosion that can outshine an entire galaxy?",
+    "options": {
+      "A": "Supernova",
+      "B": "Black Hole",
+      "C": "Pulsar",
+      "D": "Quasar"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "🛰️ What was the name of the first artificial satellite launched into space?",
+    "options": {
+      "A": "Explorer 1",
+      "B": "Sputnik 1",
+      "C": "Vanguard 1",
+      "D": "Apollo 11"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "🪐 Which planet is known as the 'Red Planet'?",
+    "options": {
+      "A": "Venus",
+      "B": "Jupiter",
+      "C": "Mars",
+      "D": "Saturn"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "🌑 What is the darkest part of a shadow during an eclipse called?",
+    "options": {
+      "A": "Penumbra",
+      "B": "Antumbra",
+      "C": "Umbra",
+      "D": "Tumbra"
+    },
+    "answer": "C"
+  }
+
+      ]
